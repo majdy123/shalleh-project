@@ -1,0 +1,61 @@
+.card-view{
+    margin-top: 8vh;
+    margin-right: 2vw;
+}
+.label{
+    text-align: center;
+    width: 100px;
+}
+.cards_shadow{
+    box-shadow: 0px 0px 26px 0px rgba(0,0,0,0.75) !important;
+    -webkit-box-shadow: 0px 0px 26px 0px rgba(0,0,0,0.75)!important;
+    -moz-box-shadow: 0px 0px 26px 0px rgba(0,0,0,0.75)!important;
+    border: 0px solid black;
+    border-radius: 20px !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.primary_form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form_data_tit{
+    font-size: 20px !important;
+}
+.form_input_data{
+    width: 100%;
+}
+.form_body_adjust{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+.input_slot_row{
+    width: 100%;
+}
+.form_input_data_desc{
+    width: 100%;
+}
+.button_form_user{
+    width: 100%;
+    margin-top: 20px;
+}
+.adjust_card-user_det{
+    padding: 20px;
+    margin: 0px;
+}
+.calender_in_user_reg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 20px;
+    direction: ltr;
+}

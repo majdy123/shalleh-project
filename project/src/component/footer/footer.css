@@ -1,0 +1,84 @@
+.footer-link{
+    font-size: larger;
+    font-weight: bold;
+    border: 0px solid black;
+    text-align: center;
+}
+.footer-item{
+    border: 1px solid black;
+    border-radius:20px;
+    width: 200px;
+    margin: 10px;
+   
+    text-align: center;
+    transition: 0.3s;
+    margin-bottom: 100px;
+}
+.footer-all{
+}
+.footer-item:hover{
+    background-color: rgb(13, 110, 253);
+    color: white;
+}
+.footer-color-hover{
+     
+    transition: 0.3s;
+}
+.footer-color-hover:hover{
+    color: white;
+}
+
+.footer-item .footer-color-hover{
+    color: rgb(0, 0, 0);
+}
+.footer-item:hover .footer-color-hover{
+    color: rgb(255, 255, 255);
+}
+
+.foot{
+    direction: ltr;
+}
+/* .footer-link:hover{
+    color: rgb(128, 131, 131);
+} */
+#main_footer .fa-brands{
+    font-size: 25px;
+    cursor: pointer;
+    padding-left: 20px;
+    
+    
+}
+#main_footer .fa-instagram{
+    color: rgb(214,73,85);
+}
+#main_footer .fa-facebook{
+    color: blue;
+}
+#main_footer .fa-whatsapp{
+    color: rgb(118, 192, 8);
+}
+
+.Baraa_Majdy{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.Baraa_Majdy li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav_icons{
+    border: 0px solid black;
+}
+.safhity-link{
+    color: rgb(13, 110, 253); ;
+}
+.footer-border-hide{
+    border:0px solid black ;
+}
+.adjust{
+    direction: rtl;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

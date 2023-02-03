@@ -1,0 +1,29 @@
+.admin-nav{
+    direction: rtl;
+}
+.requst-content{
+    margin-top: 5vh;
+    margin-right: 5vw;
+    direction: rtl;
+}
+
+.log_out_link{
+    width: 100%;
+    height: 100%;
+}
+.log_out_button{
+    background-color: white;
+    border: 0px solid black;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.req_admin_page_text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 110%;
+    font-weight: bolder;
+}
+.Toolbar_admin{
+    background-color: #1976D2 !important;
+}

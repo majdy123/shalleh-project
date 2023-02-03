@@ -1,0 +1,63 @@
+.bold{
+    display: flex;
+    justify-content: center;
+    color: rgb(196, 196, 196);
+}
+.box-container{
+    direction: rtl;
+}
+.nav{
+    direction: rtl;
+    text-align: center;
+}
+.primary-info{
+    direction: rtl;
+}
+.features{
+    direction: rtl;
+}
+.f-icon{
+font-weight: bold;
+}
+.gallery{
+    align-items: center;
+    margin-top: 7vh;
+    padding-right: 30vw;
+    border: 1px solid;
+}
+.nav_adjust_shalleh_user{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.nav_adjust_shalleh_user_butt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin: 0px;
+    padding: 10px;
+}
+.color_adj{
+    background-color: #1976D2;
+}
+.adjustt_nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav_adjust_shalleh_user li {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.bold{
+    text-align: center;
+}
+
+@media screen and (max-width: 530px) {
+
+}

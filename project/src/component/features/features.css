@@ -1,0 +1,26 @@
+.title{
+   margin-top: 6vh;
+   margin-bottom: 6vh;
+   text-align: center;
+}
+ .felx_adjust{
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+   flex-direction: row;
+   width: 300px;
+}
+ .felx_adjust div {
+   height: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   flex-direction: row;
+   padding-right: 10px ;
+}
+ .felx_adjust_icons_fet {
+   height: 100%;
+}
+.button_fix_shape{
+   font-family: 'Changa', sans-serif !important;
+}

@@ -1,0 +1,19 @@
+.Detils_head_title_adjust{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7%;
+}
+.Detils_head_title_adjust p{
+font-size: 20px!important;
+}
+@media screen and (max-width: 850px) {
+    .Detils_head_title_adjust p{
+        font-size: 15px!important;
+        }
+}
+@media screen and (max-width: 650px) {
+    .Detils_head_title_adjust p{
+        font-size: 14px!important;
+        }
+}

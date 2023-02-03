@@ -1,0 +1,25 @@
+.card-icon{
+    margin-right: 10%;
+    cursor: pointer;
+}
+.card-icons{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.card-content{
+    text-align: center;
+}
+.font_adjust_for_cards{
+    font-family: 'Changa', sans-serif !important ;
+}
+.green_dot_active{
+    padding: 4px;
+    color: #40AD45;
+}
+
+.red_dot_active{
+    padding: 4px;
+    color: #C92D2D;
+}
+

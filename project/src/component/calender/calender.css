@@ -1,0 +1,9 @@
+
+.MuiDialogActions-root  * {
+    display: none !important;
+}
+.cal{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+ 

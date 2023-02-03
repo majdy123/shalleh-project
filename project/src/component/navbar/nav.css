@@ -1,0 +1,55 @@
+
+.logo{
+   
+    margin-top: 1vw;
+    margin-left:3vh ;
+    height: 12vh;
+    z-index: 6;
+    display: none;
+}
+ 
+.navlist{
+    display: flex;
+    list-style: none;
+}
+.navlist .element{
+    margin-top: 3%;
+    padding: 3%;
+}
+.link{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    width: 100px;
+    display: block;
+    width: max-content;
+    font-family: 'Changa', sans-serif;
+    z-index: 6;
+}
+.link:hover{
+    color: rgb(99, 99, 103);
+}
+ 
+.Nav_align{
+    position: fixed;
+    z-index: 9999;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+ 
+}
+.navlist{
+    flex-direction: row-reverse;
+    width: 90vw;;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 10vh;
+}
+@media only screen and ( min-width: 1080px) {
+    .logo {
+      display:block;
+    }
+}
+
+ 

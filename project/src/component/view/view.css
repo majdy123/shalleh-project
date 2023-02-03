@@ -1,0 +1,10 @@
+.footer_view{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.link_safhity{
+    color: #527DFF;
+    font-size: 18px;
+}
+ 

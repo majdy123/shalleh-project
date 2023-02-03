@@ -1,0 +1,31 @@
+.card-icon{
+    text-align: center;
+}
+.card_icon_num_adj{
+    width: 300px;
+}
+.class_title_for_card{
+    width: 300px;
+}
+.card_body{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    width: 100%;
+}
+.item_number_flex{
+    width: 100px;
+    display: flex;
+    flex: flex-end;
+    justify-content: center;
+    align-items: center;
+}
+.item_icon_flex{
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent_class_comp{
+    width: 100%;
+}

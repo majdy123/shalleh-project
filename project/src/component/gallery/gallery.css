@@ -1,0 +1,91 @@
+.gallery{
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;   
+    width: 100% !important;
+    flex-direction: column;
+    border: 0px black solid;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 60px;
+}
+.main-img{
+    width: 20vw;
+   
+    cursor: pointer;
+    
+}
+.uplode-button{
+    text-align: right;
+}
+.second-img{
+    width: 15vw;
+    
+    cursor: pointer;
+}
+.second-row{
+    
+    margin-right: 10vw;
+}
+.second-title{
+    
+    margin-right: 1vw;
+    margin-top: 1vh;
+}
+.save-btn{
+    display: block;
+    direction: rtl;
+    margin-right: 45vw;
+    width: auto;
+    margin-bottom: 2vh;
+}
+.note{
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4vh;
+}
+.imagecontainer_render{
+    border-radius: 30px !important;
+ 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+.myimage_render{
+    width: 40%;
+    height: 30% !important;
+    border-radius: 30px !important;
+    object-fit: contain;
+}
+
+.sec_shalleh_photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.class_for_image_adjust{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.class_row_adjust_cl{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    margin-bottom: 10%;
+}
+.class_adjust_sec_photo{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
+.span_containerr{
+    text-align: center;
+}
