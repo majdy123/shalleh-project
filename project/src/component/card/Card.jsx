@@ -131,7 +131,7 @@ export default function Card(props) {
             </div>
               </div>
               <div className='card_image'>
-                <div style={{backgroundImage: 'url(image-url)'}} className='card_img_photo'><div className='pook_now_ele'>احجز الان</div></div>
+                <div style={{backgroundImage: `url(${Link_photo_prim})`}} className='card_img_photo'><div className='pook_now_ele'>احجز الان</div></div>
                 <div className="middle_overlay_card-photo">
                     <div className="text_overlay_card-photo"><a onClick={inc_visit} href={'/view/details?UserName='+ props.UserName}><h4>كافة التفاصيل</h4></a></div>
                 </div>
